@@ -1,10 +1,8 @@
 $(function() {
 	$('#table-of-contents a').smoothScroll()
 	$( '.outline-2' ).searchable({
-		selector      : 'li',  
-		childSelector : 'p',  // my change from a
-	//	selector      : 'li',
-	//	childSelector : 'a',
+		selector      : 'li',
+		childSelector : 'a',
 		searchField   : '#search',
 		// striped       : true,
 		// oddRow        : { 'background-color': '#f5f5f5' },
