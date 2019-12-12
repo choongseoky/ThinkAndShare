@@ -1,1 +1,2 @@
-# ThinkAndShare(https://choongseoky.github.io/ThinkAndShare/)
+# ThinkAndShare
+https://choongseoky.github.io/ThinkAndShare/
